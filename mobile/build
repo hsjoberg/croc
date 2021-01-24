@@ -1,0 +1,1 @@
+gomobile bind --tags="mobile" --target=android github.com/hsjoberg/croc/mobile . # <- path to mobile folder
